@@ -14,8 +14,8 @@
 <h2 align="left">🛠️ Tools & Platforms</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,matlab,r,anaconda&perline=6" alt="VS Code, GitHub, Git, MATLAB, R, Anaconda" /><br>
-  <img src="https://skillicons.dev/icons?i=azure,aws,latex,postgres,mysql,linux&perline=6" alt="Azure, AWS, LaTeX, PostgreSQL, MySQL, Linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,docker,matlab,r&perline=6" alt="VS Code, GitHub, Git, Docker, MATLAB, R" /><br>
+  <img src="https://skillicons.dev/icons?i=azure,aws,latex,postgres,anaconda,linux&perline=6" alt="Azure, AWS, LaTeX, PostgreSQL, Anaconda, Linux" />
 </p>
 
 <h2 align="left">📫 How to contact me</h2>
